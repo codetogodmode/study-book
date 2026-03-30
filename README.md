@@ -6,3 +6,4 @@ Učební materiály organizované po vrstvách kurikula. Každá vrstva obsahuje
 - [Layer 2 — OOP & Quality](layer-02/)
 - [Layer 3 — Data & API](layer-03/)
 - [Layer 4 — Frontend & Full Stack](layer-04/)
+- [Layer 5 — Ship It](layer-05/)

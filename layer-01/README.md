@@ -2,4 +2,4 @@
 
 ## Obsah
 
-*Materiály se budou plnit průběžně ze sessions.*
+- [Terminál a VS Code — základní nástroje vývojáře](./terminal-a-vs-code-zakladni-nastroje-vyvojare.md)

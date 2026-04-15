@@ -10,3 +10,4 @@
 - [Vícebarevný výpis v konzolové aplikaci](./vicebarevny-vypis-v-konzolove-aplikaci.md)
 - [Markdown — formátování textu pro programátory](./markdown-formatovani-textu-pro-programatory.md)
 - [Základní datové typy — stavební kameny pro ukládání dat](./zakladni-datove-typy-stavebni-kameny-pro-ukladani-dat.md)
+- [Proměnné — základní stavební kameny programu](./promenne-zakladni-stavebni-kameny-programu.md)

@@ -8,3 +8,4 @@
 - [Git — systém pro sledování změn v kódu](./git-system-pro-sledovani-zmen-v-kodu.md)
 - [Entry point aplikace — kde program začíná](./entry-point-aplikace-kde-program-zacina.md)
 - [Vícebarevný výpis v konzolové aplikaci](./vicebarevny-vypis-v-konzolove-aplikaci.md)
+- [Markdown — formátování textu pro programátory](./markdown-formatovani-textu-pro-programatory.md)

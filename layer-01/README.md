@@ -12,3 +12,4 @@
 - [Základní datové typy — stavební kameny pro ukládání dat](./zakladni-datove-typy-stavebni-kameny-pro-ukladani-dat.md)
 - [Proměnné — základní stavební kameny programu](./promenne-zakladni-stavebni-kameny-programu.md)
 - [Jednoduchá kalkulačka pro začátečníky](./jednoducha-kalkulacka-pro-zacatecniky.md)
+- [Podmínky a logické operátory — rozhodování v programu](./podminky-a-logicke-operatory-rozhodovani-v-programu.md)

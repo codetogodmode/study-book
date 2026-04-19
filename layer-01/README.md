@@ -13,3 +13,4 @@
 - [Proměnné — základní stavební kameny programu](./promenne-zakladni-stavebni-kameny-programu.md)
 - [Jednoduchá kalkulačka pro začátečníky](./jednoducha-kalkulacka-pro-zacatecniky.md)
 - [Podmínky a logické operátory — rozhodování v programu](./podminky-a-logicke-operatory-rozhodovani-v-programu.md)
+- [Enum — pojmenované konstanty místo magic numbers](./enum-pojmenovane-konstanty-misto-magic-numbers.md)

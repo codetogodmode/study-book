@@ -15,3 +15,4 @@
 - [Podmínky a logické operátory — rozhodování v programu](./podminky-a-logicke-operatory-rozhodovani-v-programu.md)
 - [Enum — pojmenované konstanty místo magic numbers](./enum-pojmenovane-konstanty-misto-magic-numbers.md)
 - [Komentáře v kódu — poznámky pro programátory](./komentare-v-kodu-poznamky-pro-programatory.md)
+- [Switch statement - rozhodování podle hodnoty](./switch-statement-rozhodovani-podle-hodnoty.md)

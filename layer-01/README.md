@@ -19,3 +19,4 @@
 - [Cykly — jak opakovat činnosti v programu](./cykly-jak-opakovat-cinnosti-v-programu.md)
 - [Statické metody — nástroje, které fungují bez objektů](./staticke-metody-nastroje-ktere-funguji-bez-objektu.md)
 - [Proč používat metody — organizace kódu pro lepší přehlednost](./proc-pouzivat-metody-organizace-kodu-pro-lepsi-prehlednost.md)
+- [Rozpoznání kdy rozdělit nebo extrahovat metodu](./rozpoznani-kdy-rozdelit-nebo-extrahovat-metodu.md)

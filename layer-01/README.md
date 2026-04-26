@@ -17,3 +17,4 @@
 - [Komentáře v kódu — poznámky pro programátory](./komentare-v-kodu-poznamky-pro-programatory.md)
 - [Switch statement - rozhodování podle hodnoty](./switch-statement-rozhodovani-podle-hodnoty.md)
 - [Cykly — jak opakovat činnosti v programu](./cykly-jak-opakovat-cinnosti-v-programu.md)
+- [Statické metody — nástroje, které fungují bez objektů](./staticke-metody-nastroje-ktere-funguji-bez-objektu.md)
